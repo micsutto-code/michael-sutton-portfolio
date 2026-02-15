@@ -24,6 +24,7 @@ This project establishes a secure baseline configuration for an Ubuntu Server vi
 
 ```bash
 sudo apt update && sudo apt upgrade -y
+```
 
 ---
 
