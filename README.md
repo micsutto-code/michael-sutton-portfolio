@@ -12,7 +12,7 @@ My goal is to pivot into cybersecurity (SOC / security operations) with a strong
 
 ## Featured Projects
 - **Homelab Security Baseline** — Linux hardening, SSH key auth, firewalling, and brute-force protection  
-  `projects/01_homelab_security_baseline`
+  `projects/01_linux_ssh_hardening`
 
 
 
