@@ -17,7 +17,7 @@ My goal is to pivot into cybersecurity (SOC / security operations) with a strong
 
 
 ## Tools & Technologies
-Linux (Ubuntu), Git/GitHub, pfSense, Wireshark, Nmap, tcpdump, Python
+Linux (Ubuntu), Git/GitHub,  Wireshark, Nmap, tcpdump, Python
 
 ## Contact
 - LinkedIn: (add)
