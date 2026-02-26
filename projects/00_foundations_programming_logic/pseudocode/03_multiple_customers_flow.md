@@ -4,6 +4,7 @@
 Processes multiple customers using a sentinel value.
 
 ## Pseudocode
+```
 
 START
 
@@ -23,3 +24,4 @@ WHILE areaCode != 999
 END WHILE
 
 END
+```

@@ -4,7 +4,7 @@
 Displays only customers matching a target area code.
 
 ## Pseudocode
-
+```
 START
 
 INPUT targetAreaCode
@@ -26,3 +26,4 @@ WHILE areaCode != 999
 END WHILE
 
 END
+```

@@ -4,7 +4,7 @@
 Displays customers whose total bill exceeds $10.
 
 ## Pseudocode
-
+```
 START
 
 INPUT areaCode
@@ -25,3 +25,4 @@ WHILE areaCode != 999
 END WHILE
 
 END
+```

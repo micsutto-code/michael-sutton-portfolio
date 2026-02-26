@@ -4,7 +4,7 @@
 Calculates the total bill based on number of messages sent.
 
 ## Pseudocode
-
+```
 START
 
 INPUT messages
@@ -25,3 +25,4 @@ afterTax = pretax * 1.14
 RETURN afterTax
 
 END
+```

@@ -4,7 +4,7 @@
 Displays only customers who sent more than 100 messages.
 
 ## Pseudocode
-
+```
 START
 
 INPUT areaCode
@@ -25,3 +25,4 @@ WHILE areaCode != 999
 END WHILE
 
 END
+```

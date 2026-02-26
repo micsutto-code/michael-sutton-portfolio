@@ -4,6 +4,7 @@
 Processes billing for a single customer.
 
 ## Pseudocode
+```
 
 START
 
@@ -16,3 +17,4 @@ CALL ComputeBill(messages) → totalBill
 DISPLAY areaCode, phoneNumber, totalBill
 
 END
+```
