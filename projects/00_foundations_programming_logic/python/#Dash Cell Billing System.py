@@ -69,7 +69,7 @@ def log_record(area_code, phone_number, messages, total_bill, path="billing_reco
 
 def process_customers():
         while True:
-            area_code = prompt_area_code
+            area_code = prompt_area_code()
 
             if area_code == "999":
                 break
@@ -86,7 +86,7 @@ def process_customers():
     
 def filter_over_100():
         while True:
-            area_code = prompt_area_code
+            area_code = prompt_area_code()
             if area_code == "999":
                 break
 
