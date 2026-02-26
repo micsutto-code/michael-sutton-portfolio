@@ -26,7 +26,8 @@ This project demonstrates:
 
 📁 [View Project](./projects/00_foundations_programming_logic)
 
-- **Homelab Security Baseline** — Linux hardening, SSH key auth, firewalling, and brute-force protection  
+### Homelab Security Baseline 
+— Linux hardening, SSH key auth, firewalling, and brute-force protection  
   📁 [View Project](./projects/01_linux_ssh_hardening)
 
 
