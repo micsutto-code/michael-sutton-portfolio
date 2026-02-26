@@ -1,6 +1,8 @@
 # Michael Sutton — Cybersecurity & Infrastructure Portfolio
 
-I’m an IT/cybersecurity student building a security-focused home lab and a portfolio of hands-on projects covering system hardening, network segmentation, investigation workflows, and Python automation.
+I’m building a security-focused home lab and a portfolio of hands-on projects covering system hardening, network segmentation, investigation workflows, and Python automation.
+
+My goal is to transition into a cybersecurity role (SOC / security operations) with a strong infrastructure foundation.
 
 My goal is to pivot into cybersecurity (SOC / security operations) with a strong infrastructure foundation.
 
@@ -11,10 +13,21 @@ My goal is to pivot into cybersecurity (SOC / security operations) with a strong
 - Python security automation
 
 ## Featured Projects
-- **Foundations of Programming Logic** — Core programming concepts including flowcharts, pseudocode, and structured problem-solving techniques  
-  `projects/00_foundations_programming_logic`
+### Foundations of Programming Logic
+Core programming concepts implemented through a structured workflow:
+
+Flowcharts → Pseudocode → Python Implementation
+
+This project demonstrates:
+- Modular billing logic
+- Multi-customer processing
+- Conditional filtering
+- Input validation and logging
+
+📁 [View Project](./projects/00_foundations_programming_logic)
+
 - **Homelab Security Baseline** — Linux hardening, SSH key auth, firewalling, and brute-force protection  
-  `projects/01_linux_ssh_hardening`
+  📁 [View Project](./projects/01_linux_ssh_hardening)
 
 
 
