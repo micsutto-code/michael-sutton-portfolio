@@ -11,6 +11,8 @@ My goal is to pivot into cybersecurity (SOC / security operations) with a strong
 - Python security automation
 
 ## Featured Projects
+- **Foundations of Programming Logic** — Core programming concepts including flowcharts, pseudocode, and structured problem-solving techniques  
+  `projects/00_foundations_programming_logic`
 - **Homelab Security Baseline** — Linux hardening, SSH key auth, firewalling, and brute-force protection  
   `projects/01_linux_ssh_hardening`
 
