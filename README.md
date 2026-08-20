@@ -42,7 +42,13 @@ This project demonstrates:
 📁 [View Project](./projects/02_windows_active_directory_lab)
 
 ## Tools & Technologies
-Linux (Ubuntu), Git/GitHub,  Wireshark, Nmap, tcpdump, Python
+**Operating Systems & Platforms:** Linux (Ubuntu), Windows Server 2022, Windows 10/11, Proxmox VE
+
+**Security & Networking:** Wireshark, Nmap, tcpdump, Windows Event Logs, SSH
+
+**Windows Infrastructure:** Active Directory Domain Services, Group Policy, Organizational Units, Windows domain administration
+
+**Development & Tools:** Python, Git/GitHub
 
 ## Contact
 - LinkedIn: [linkedin.com/in/michael-sutton-955293349](https://www.linkedin.com/in/michael-sutton-955293349/)
