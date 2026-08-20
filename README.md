@@ -28,7 +28,18 @@ This project demonstrates:
 — Linux hardening, SSH key auth, firewalling, and brute-force protection  
   📁 [View Project](./projects/01_linux_ssh_hardening)
 
+### Windows Active Directory & Security Lab
+Virtualized Windows domain environment built with Windows Server 2022, Active Directory, Group Policy, domain-joined Windows clients, and security-focused event logging.
 
+This project demonstrates:
+- Active Directory and Windows Server administration
+- Organizational Unit (OU) design and Group Policy
+- Windows 10/11 domain integration
+- Security baseline configuration
+- Windows Event Log configuration and monitoring
+- Troubleshooting and remote administration
+
+📁 [View Project](./projects/02_windows_active_directory_lab)
 
 ## Tools & Technologies
 Linux (Ubuntu), Git/GitHub,  Wireshark, Nmap, tcpdump, Python
